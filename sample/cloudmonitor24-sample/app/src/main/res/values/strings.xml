@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CloudMonitor24 Sample</string>
+    <string name="plant_token">Plant Token</string>
+    <string name="plant_identifier">Plant Identifier</string>
+    <string name="launch">LAUNCH</string>
+    <string name="stop">STOP</string>
+</resources>
