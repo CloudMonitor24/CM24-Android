@@ -20,6 +20,6 @@ Follow these few steps to start logging data on your Android App:<br>
     logger.logVar( VarIds.VAR_ID_TEMPERATURE, 3.456f, __MySensorId );
     logger.logAlarm( AlarmIds.ALARM_ID_USER_ALARM, __MySensorId );
 ```
-### APIs
-This SDK is intended only for logging data. For further information about Rest APIs:<br>
+### Documentation
+Full library documentation is available on CloudMonitor24 developer area:<br>
 [CloudMonitor24 Docs](http://www.cloudmonitor24.com/iot/docs)
